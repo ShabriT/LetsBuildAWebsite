@@ -1,1 +1,10 @@
 /*wait why is this empty? */
+
+
+.dog{
+    height: 180px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    }  
+
